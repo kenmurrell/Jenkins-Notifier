@@ -1,0 +1,8 @@
+---
+  server: "JENKINS SERVER NAME HERE"
+  username: "JENKINS USERNAME HERE"
+  password: "JENKINS PASSWORD HERE"
+  jobs:
+    - "JOB ONE HERE"
+    - "JOB TWO HERE"
+
